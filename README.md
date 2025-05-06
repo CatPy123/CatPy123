@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CatPy123
+- My name is Catarina Gomes de Moraes Jaensch de Lima
+- 👀 I’m interested in software development and web development
+- 🌱 I’m currently learning Python, CSS and HTML
